@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+earthengine-api
+geemap
+folium
+streamlit-folium
+reportlab
